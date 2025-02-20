@@ -29,6 +29,21 @@
   display: grid;
   gap: 1rem;
 }
+.flex{
+  display: flex;
+}
+.gap-1{
+  gap: 1rem;
+}
+.grid{
+  display: grid;
+}
+
+
+
+
+
+
 
 @media (width >= 80em) {
   .container {
